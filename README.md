@@ -1,6 +1,6 @@
 # plsql-window-function-babwireyesu-denis
 PL/SQL window functions assignment for PL
-# PL/SQL Window Functions Assignment – Babbiyeus Denis
+# PL/SQL Window Functions Assignment – Babwireyesu Denis
 
 ## Problem Definition
 
